@@ -25,3 +25,4 @@ The following can be used to validate the site looks correct
 ## Push new site
 
 Updates to the main branch will kick off the gitlab pipeline building a new version of the docs.
+ 
