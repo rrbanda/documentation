@@ -14,4 +14,4 @@ Red Hat Composer AI is a consulting approach that  accelerates innovation by pro
 * **Centralized AI Platform:** Accelerate AI use case development with an intuitive, secure, and scalable environment
 * **Democratizing AI:** Empower business leaders, analysts, and operations teams with tools for innovation, efficiency, and control
 * **Seamless Integration:** Compatible with open-source models and securely manages proprietary data across multiple databases
-* **Automate & Innovate:** Streamline workflows, automate routine tasks, and focus on what matters most—driving your organization forward
+* **Automate & Innovate:** Streamline workflows, automate routine tasks, and focus on what matters most—driving your organization forward.
