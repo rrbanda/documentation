@@ -1,8 +1,12 @@
-# Editing the Site
+# Live URL
+
+https://redhat-composer-ai.github.io/documentation/
+
+## Editing the Site
 
 It is highly recommended you download [Obsidian](https://obsidian.md/) and use that to update the docs. Note you need to set your Obsidian vault(File system) to point to the `/content` folder.
 
-# Creating a new Page
+## Creating a new Page
 
 To create a new page in the Obsidan Browser
 
