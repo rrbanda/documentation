@@ -18,7 +18,9 @@ jobs:
         uses: konstfish/quartz-build-action@v1
         with:
           source: content
-          page_title: "Composer AI"
+          quartz_config: quartz.config.ts
+          quartz_layout: quartz.layout.ts
+          quartz_icon: quartz/static/icon.png
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
   deploy:

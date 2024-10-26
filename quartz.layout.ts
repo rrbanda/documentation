@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/redhat-composer-ai",
-      Documentation: "https://redhat-composer-ai.github.io/documentation/",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Documentation: "https://redhat-composer-ai.github.io/documentation/"
     },
   }),
 }
