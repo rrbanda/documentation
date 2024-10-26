@@ -1,3 +1,13 @@
+# Composer AI Documentation
+
+This repository is built using the github action [quartz-build-action](build-quartz-for-github-pages).
+
+Pages located in the `content` directory.
+
+Quartz Config Info located in `config`
+
+Static content located in `static`
+
 # Live URL
 
 https://redhat-composer-ai.github.io/documentation/
@@ -17,16 +27,3 @@ Add a new note:
 Apply Template `notes` to the newly created page:
 
 ![apply template](.assets/addtemplate.png)
-
-## Run Site Locally
-
-The following can be used to validate the site looks correct
-
-`npm run docs`
-
-`npx quartz build --serve -d content`
-
-## Push new site
-
-Updates to the main branch will kick off the gitlab pipeline building a new version of the docs.
- 
