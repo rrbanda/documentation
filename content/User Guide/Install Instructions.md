@@ -39,3 +39,10 @@ This is an area we need to improve.  You will need to create three secrets that 
     - to run the ingestion pipeline
 3. a dataconnection to an s3 bucket
     - to connect to an s3 compatable object storage containing the model which you wish to run
+
+# Ingestion Pipeline
+1. Run the Ingestion Pipeline
+   - Makes sure to wait til both the pod `document-ingestion-xxx-xxx` finishes running before the index is populated. Takes a while
+   - The second one where you start seeing logs that look like this `Uploading document to collection red_hat_openshift_ai_self_managed_en_US_2_8`
+2. Delete the UI Deployment (in order for it to pull the new image)
+
